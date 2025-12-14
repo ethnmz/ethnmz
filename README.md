@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!--
 **ethnmz/ethnmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,40 +15,19 @@ Here are some ideas to get you started:
 -->
 
 
-I’m a first-year engineering student with a strong interest in **computer science, systems, and practical software engineering**. I enjoy building things that are simple, efficient, and actually useful.
+## Hi, I’m Ethan 👋
 
----
+First-year engineering student interested in **computer science and software engineering**.  
+I focus on building solid fundamentals and writing clear, practical code.
 
-### What I’m currently working on
-- Coursework projects in **Python, Java, and introductory systems concepts**
-- Small personal projects to strengthen fundamentals (data structures, algorithms, tooling)
-- Improving my problem-solving and mathematical foundations for engineering coursework
+### Currently
+- Working with **Java and Python**
+- Learning data structures, algorithms, and core CS concepts
 
----
+### Tools
+- Java, Python
+- Git, GitHub, VS Code, IntelliJ
 
-### What I’m currently learning
-- Data structures and algorithmic thinking  
-- Core computer science concepts (memory, complexity, abstraction)
-- Writing clearer, more maintainable code
-
----
-
-### Tools & technologies
-- **Languages:** Java, Python (learning C/C++ concepts)
-- **Tools:** Git, GitHub, VS Code, IntelliJ
-- **Other:** Markdown, basic Linux/CLI workflows
-
----
-
-### Collaboration
-I’m open to collaborating on:
-- Beginner–intermediate CS projects
-- Study-focused or learning-driven repos
-- Small tools or utilities that solve real problems
-
----
-
-### How to reach me
+### Contact
 - GitHub: `@ethnmz`
-- Email: ethan7714@tamu.edu
 
