@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src="banner.png" width="100%" alt="Winter Landscape Banner" />
+</div>
 
 ## Hi, I’m Ethan 👋
 
@@ -29,5 +32,4 @@ I focus on building solid fundamentals and writing clear, practical code.
 - Git, GitHub, VS Code, IntelliJ
 
 ### Contact
-- GitHub: `@ethnmz`
-
+- GitHub: [`@ethnmz`](https://github.com/ethnmz)
