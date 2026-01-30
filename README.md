@@ -1,8 +1,7 @@
-# 💫 About Me:
-First-year engineering student interested in computer science and software engineering.<br>I focus on building solid fundamentals and writing clear, practical code.<br>Currently<br><br>    Working with Java and Python<br>    Learning data structures, algorithms, and core CS concepts<br><br>Tools<br><br>    Java, Python<br>    Git, GitHub, VS Code, IntelliJ<br>
+# 🧑‍💻 About Me:
+Howdy! I am a first-year engineering student interested in computer science and software engineering at the University of Texas A&M.<br>I focus on building solid fundamentals and writing clear, practical code.
 
-
-## 🌐 Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethnmz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ethan7714@tamu.edu) 
 
 # 💻 Tech Stack:
@@ -12,7 +11,3 @@ First-year engineering student interested in computer science and software engin
 ![](https://nirzak-streak-stats.vercel.app/?user=ethnmz&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethnmz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
